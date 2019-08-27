@@ -7,3 +7,6 @@ Besides automating the inference on a predefined set (not live images), the tool
 - Set outlier percentage and view outlier scores and images
 
 Oh, there's a bonus: The tool has a GUI!
+
+The file that ends with .io should be opened in www.draw.io
+
