@@ -50,7 +50,7 @@ class CreateToolTip(object):
         label = Label(self.tw, text=self.text, justify='left',
                       background= "white", relief='solid', borderwidth=1,
                       wraplength=self.wraplength)
-        label.pack(ipadx=1)
+        label.pack(ipadx=1.3)
 
     def hidetip(self):
         tw = self.tw
